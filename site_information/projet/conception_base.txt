@@ -1,0 +1,3 @@
+user(nom, pass)
+region(intitule, idPays[optionnel])
+statistique(nvcas, nvGeuris, nvDeces, region_id, date)
